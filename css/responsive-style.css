@@ -1,0 +1,151 @@
+@media (max-width: 1200px){
+    /*custom CSS*/
+    h1{
+        font-size: 2.1875rem;
+    }
+
+    h2{
+        font-size: 1.1875rem;
+    }
+
+    h3{
+        font-size: 1.25rem;
+    }
+
+    h2{
+        font-size: 1.12rem;
+        line-height: 2rem;
+    }
+    p,a{
+        font-size: .875rem;
+        line-height: 1.2rem;
+    }
+
+    .main-btn{
+        padding: .5rem .9375rem;
+
+    }
+
+    .wrapper{
+        padding-top: 4.25rem;
+        padding-bottom: 3.25rem;
+    }
+     
+    .navigation-wrap .navbar-expand-lg .navbar-nav .nav-link{
+        font-size: .875rem;
+
+    }
+
+
+
+/*Service Section */
+
+.service-section .service-cards{
+   margin-top: 4.4286rem;
+}
+
+.service-section .card{
+    padding: 3.4375rem 0 0;
+    margin-bottom: 1.25rem;
+
+}
+
+.margin-section .card img{
+    width: 6..25rem;
+    height: 6.25rem;
+}
+}
+@media (max-width: 992px){
+    /*Custom CSS */
+    p,a{
+        font-size: 0.75rem;
+    }
+
+    .header-top{
+        display: none;
+    }
+
+    /*Navbar */
+    .header-top{
+        display: none;
+    }
+
+    .navbar .navbar-toggler{
+        color: var(--text-white);
+        }
+
+    .navbar .main-btn{
+        margin: 0.623rem 0;
+    }   
+
+    .navigation-wrap{
+        text-align: center;
+        background-color:var(--black-color);
+    }
+
+    .navigation-wrap .nav-link{
+        line-height: 1.875rem;
+    }
+
+    .top-banner{
+        padding: 3.375rem 0 4.375rem;
+    }
+   /*features section */
+   .features-section .card .price{
+    font-size: 1.25rem;
+   }
+
+}
+
+@media (max-width: 767px){
+    h1{
+        font-size: 1rem;
+    }
+    h2{
+        font-size: 1.1rem;
+    }
+    h3{
+        font-size: 1rem;
+    }
+    h4{
+        font-size: 1rem;
+    }
+
+    span{
+        font-size: .875rem;
+    }
+    .main-btn{
+        font-size: .775rem;
+        line-height: 1rem;
+        padding: .5rem .65rem;
+    }
+
+    .wrapper{
+        padding-top: 3.25rem;
+        padding-bottom: 3.25rem;
+    }
+
+    .service-section .card{
+        margin-bottom: 2.5rem;
+    }
+
+    .features-section .card .price{
+        font-size: .875rem;
+       }
+
+   .download-app-btn img{
+    max-width: 9rem;
+    width: 100%;
+   }    
+    
+ .footer .footer-link,
+ .footer a i{
+    padding: 0.3rem 0.7rem;
+ }  
+
+ .footer a{
+    padding: 0 0.5rem;
+ }
+
+
+}
